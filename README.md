@@ -10,7 +10,7 @@ Um formulário criado apenas com HTML e CSS se tratando de uma seguradora de ve�
 <br><br>
 
 - COPIA_INSTA:
-  .
+Aqui temos uma cópia da tela inicial do Instagram, projetada somente com HTML E CSS, sem interações do lado cliente.
 <br><br>
 
 - BLOG_SEMANTICO:

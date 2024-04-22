@@ -8,7 +8,7 @@ Clique e veja: https://slipknot-tribute-udemy.netlify.app/
 
 - FORM_PROJECT:
 Um formulário criado apenas com HTML e CSS se tratando de uma seguradora de veículos. Visando apenas criar uma estrutura.<br>
-Clique e veja: 
+Clique e veja: https://simple-form-udemy.netlify.app/
 <br><br>
 
 - COPIA_INSTA:

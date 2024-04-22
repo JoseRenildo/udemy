@@ -3,7 +3,7 @@ Alguns pequenos projetos realizados ao decorrer do curso de Front na Udemy.
 
 - TRIBUTO:
 Apenas uma página simples de HTML e CSS tratando referente a algumas curiosidades em volta de uma banda que gosto muito.<br>
-Clique e veja: https://6626788b6d199004629835c6--cute-treacle-0fcb80.netlify.app/
+Clique e veja: https://slipknot-tribute-udemy.netlify.app/
 <br><br>
 
 - FORM_PROJECT:

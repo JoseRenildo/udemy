@@ -12,7 +12,8 @@ Clique e veja: https://simple-form-udemy.netlify.app/
 <br><br>
 
 - COPIA_INSTA:
-Aqui temos uma cópia da tela inicial do Instagram, projetada somente com HTML E CSS, sem interações do lado cliente.
+Aqui temos uma cópia da tela inicial do Instagram, projetada somente com HTML E CSS, sem interações do lado cliente.<br>
+Clique e veja: 
 <br><br>
 
 - BLOG_SEMANTICO:

@@ -1,5 +1,5 @@
 # Udemy
-Alguns projetos realizados ao decorrer do curso de Front na Udemy.
+Alguns projetos realizados ao decorrer do curso de Front na Udemy, citados em ordem cronológica.
 
 - TRIBUTO:
 Apenas uma página simples de HTML e CSS tratando referente a algumas curiosidades em volta de uma banda que gosto muito.<br>

@@ -216,3 +216,11 @@ header nav {
         font-size: 3rem;
     }
 }
+
+@media(max-width: 768px) {
+
+    #main-content {
+        overflow: hidden;
+    }
+    
+}
